@@ -1,3 +1,8 @@
 cache/
 install.link
 LICENSE.txt
+.buildpath
+.project
+.settings/
+
+

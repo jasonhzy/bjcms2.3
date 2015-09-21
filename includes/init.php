@@ -581,7 +581,6 @@ function themePage($filename) {
 					$cachefile=WEB_ROOT.'/cache/default/'.$filename.'.php';
 					$theme='default';
 			}
-	
 		if (!file_exists($cachefile)||DEVELOPMENT) {
 		
 	

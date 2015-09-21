@@ -148,7 +148,6 @@ if($temp==false){
 				return WEBSITE_ROOT.'attachment/'.$image;
 			}
 			public function do_show() {
-				
 					$this->__mobile(__FUNCTION__);
 			}
 

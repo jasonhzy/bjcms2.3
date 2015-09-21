@@ -27,6 +27,7 @@ if(empty($_REQUEST['do']))
 	
 $do=$_REQUEST['do'];
 }
+
 if(!empty($do))
 {
 				ob_start();
